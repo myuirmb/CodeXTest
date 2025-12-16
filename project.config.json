@@ -1,0 +1,15 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "codextest",
+  "description": "Taro 基础示例",
+  "appid": "",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.31.0",
+  "srcMiniprogramRoot": "src/"
+}
